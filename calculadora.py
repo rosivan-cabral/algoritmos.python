@@ -1,6 +1,6 @@
 print("### Calculadora PYTHON ###")
 
-def multiplicacao(num1, num2):
-    multiplicacao = num1 * num2
-    return multiplicacao
-print("A multiplicação é: ", multiplicacao(10, 5))
+def divisao(num1, num2):
+    divisao = num1 / num2
+    return divisao
+print("A divisão é: ", divisao(10, 5))
